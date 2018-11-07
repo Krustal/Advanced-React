@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "frontend"
+    },
+    {
+      "path": "backend"
+    },
+    {
+      "path": "/Users/byronmcmullen/courses/Advanced-React/notes"
+    },
+    {
+      "path": "/Users/byronmcmullen/courses/Advanced-React/stepped-solutions"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true
+  }
+}
